@@ -1,0 +1,251 @@
+{
+    "config": {
+        "justSmtp": {
+            "emailTo": "example@gmail.com",
+            "authorization": ""
+        },
+        "_blank": "data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs"
+    },
+    "about": {
+        "label": "About Me",
+        "avatar": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg?s=320",
+        "download": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg?s=320",
+        "signature": "https://fontmeme.com/permalink/200606/1e6cdb00bf29790e149909f86bc49fe8.png",
+        "fullName": "Charlie One",
+        "shortName": "Charlie",
+        "highlights": "Dreamer",
+        "birthDate": "Sep 31, 2000",
+        "email": "something.etc@gmail.com",
+        "phoneNo": "(+1) 123-456-7890",
+        "address": "24058, Belgium, Brussels, Liutte 27, BE",
+        "brief": "A lad capable to turn caffeine into codes.",
+        "description": "People have been coming to the wise man, complaining about the same problems every time. One day he told them a joke and everyone roared in laughter. After a couple of minutes, he told them the same joke and only a few of them smiled. When he told the same joke for the third time no one laughed anymore. The wise man smiled and said: \"You can’t laugh at the same joke over and over. So why are you always crying about the same problem?\"",
+        "gmap": {
+            "lat": "29.9713685",
+            "long": "76.8748608",
+            "zoom": "14"
+        }
+    },
+
+    "social": {
+        "github": "https://github.com/",
+        "twitter": "https://twitter.com/",
+        "behance": "https://www.behance.net/",
+        "linkedin": "https://in.linkedin.com/in/",
+        "facebook": "https://facebook.com/",
+        "dribbble": "https://dribbble.com/",
+        "instagram": "https://www.instagram.com/",
+        "stackoverflow": "https://stackoverflow.com/"
+    },
+
+    "languages": {
+        "label": "Languages",
+        "items": [
+            {
+                "title": "English",
+                "amount": "85",
+                "level": "Proficient"
+            },
+            {
+                "title": "Hindi",
+                "amount": "100",
+                "level": "Native"
+            },
+            {
+                "title": "French",
+                "amount": "20",
+                "level": "Beginner"
+            }
+        ]
+    },
+
+    "skills": {
+        "label": "Skill Stack",
+        "items": [
+            {
+                "title": "Dancing",
+                "amount": 85
+            },
+            {
+                "title": "Cooking",
+                "amount": 67
+            },
+            {
+                "title": "Singing",
+                "amount": 99
+            },
+            {
+                "title": "Workout",
+                "amount": 98
+            },
+            {
+                "title": "Music",
+                "amount": 97
+            },
+            {
+                "title": "Trekking",
+                "amount": 96
+            },
+            {
+                "title": "Flirting",
+                "amount": 94
+            },
+            {
+                "title": "Studying",
+                "amount": 11
+            },
+            {
+                "title": "Clubing",
+                "amount": 88
+            },
+            {
+                "title": "Swimming",
+                "amount": 38
+            }
+        ]
+    },
+
+    "experience": {
+        "label": "Livelihood",
+        "items": [
+            {
+                "title": "Full Stack Developer",
+                "place": "Google LLC",
+                "location": "Mountain View, California, United States",
+                "duration": "2016 - Present",
+                "description": "Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the IT Manager. Had a specific brief to ensure the websites build for customer’s precisely matched their requirements developers and marketers."
+            },
+            {
+                "title": "Software Scientist",
+                "place": "Microsoft Corporation",
+                "location": "Redmond, Washington, United States",
+                "duration": "2012 - 2016",
+                "description": "Rebuilt and enhanced existing ASP B2C site with ASP.NET 2.0 Framework and tools. Technology consists of ASP.NET 2.0 (C#), IIS, Microsoft SQL Server 2005, Stored Procedures & PayPal Instant Payment Notification."
+            },
+            {
+                "title": "Stack Programmer",
+                "place": "Facebook, Inc.",
+                "location": "Menlo Park, California, United States",
+                "duration": "2007 - 2012",
+                "description": "Developed, managed, operated and promoted an Internet business.Handled customer support issues.Planned and managed business finances."
+            }
+        ]
+    },
+
+    "education": {
+        "label": "Scholastic",
+        "items": [
+            {
+                "course": "Master of Information Technology",
+                "academy": "Massachusetts Institute of Technology",
+                "duration": "2012 - 2016",
+                "description": "Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education, third-level or tertiary education, is an optional final stage of formal learning that occurs after completion of secondary education."
+            },
+            {
+                "course": "Bachelor Computer Engineering",
+                "academy": "Harvard University",
+                "duration": "2008 - 2012",
+                "description": "Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education, third-level or tertiary education, is an optional final stage of formal learning that occurs after completion of secondary education."
+            },
+            {
+                "course": "Schooling",
+                "academy": "University of Cambridge",
+                "duration": "Passed in 2008",
+                "description": "It was a place where I spent my childhood with new mates while gaining broaden knowledge in last decades."
+            }
+        ]
+    },
+
+    "portfolio": {
+        "label": "Latest Works",
+        "hastags": "photography,cooking,clubbing,passtime,single",
+        "items": [
+            {
+                "tags": "#photography #single",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/1018/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#cooking #panel",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/292/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#clubbing #partying",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/304/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#love #life #passtime",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/1011/480/640",
+                "link": "#"
+            },
+            {
+                "tags": "#photography",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/301/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#cooking #panel",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/326/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#clubbing #partying",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/452/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#love #life #passtime",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/429/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#photography",
+                "label": "Dummy Portfolio",
+                "brief": "this is the project, which i curated my own. Haha",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            }
+        ]
+    },
+
+    "hobbies": {
+        "label": "I love to do...",
+        "items": []
+    },
+
+    "reference": {
+        "label": "It's all about me...",
+        "items": [
+            {
+                "avatar": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg",
+                "name": "User 1",
+                "brief": "A temporary refrence just for demo.",
+                "remarks": "Nice work graciosly carried out by the one and only Guy on this planet, Charlie. Love You <3"
+            },
+            {
+                "avatar": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg",
+                "name": "User 2",
+                "brief": "A temporary refrence just for demo.",
+                "remarks": "Nice work graciosly carried out by the one and only Guy on this planet, Charlie. Love You <3"
+            }
+        ]
+    }
+}
